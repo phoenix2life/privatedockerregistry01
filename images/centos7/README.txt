@@ -1,0 +1,1 @@
+This is CentOS 7 image creation, securing and private repository uploading folder. 
